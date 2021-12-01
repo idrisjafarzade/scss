@@ -1,0 +1,32 @@
+#intro-section{
+    position: relative;
+    background-image: url(http://lukoan.com/tf/tej/assets/images/intro.jpg);
+   height: 100vh;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-position:center ;
+   .container{
+       .row{
+         .A{
+              h2{ 
+                  transform: translate(-50% ,-50%);
+                  position: absolute;
+                  top: 50%;
+                  left: 50%;
+                  color: white;
+                  font-size: 50px;
+               }
+
+               i{
+                 transform: translate(-50% ,-50%);
+                   position: absolute;
+                   top: 85%;
+                   left: 50%;
+                   font-size: 100px;
+                   color: white;
+               }
+           }
+        }
+    }
+}

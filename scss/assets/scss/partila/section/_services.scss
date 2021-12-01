@@ -1,0 +1,48 @@
+#Services{
+    text-align: center;
+    background-color:#ebe8e8f1;;
+    .container{
+        .top{
+            .services-col1{
+                h2{
+                    margin-bottom: 120px;
+                }
+            }
+        }
+        .center{
+           .services-col{
+              i{
+                 font-size: 40px;
+                 color: grey;
+               }
+             h5{
+                 margin: 20px 0px;
+                 font-size: 15px;
+               }
+               p{
+                   color: grey;
+               }
+           }
+            
+        }
+       
+    }
+    .bottom{
+        background-color: black;
+        padding: 100px;
+        margin-top: 50px;
+        .row{
+            .services-col{
+                color: white;
+                i{
+                    font-size: 20px;
+                }
+                h2{
+                    font-size: 50px;
+                    margin: 20px 0px;
+                    
+                }
+            }
+        }
+    }
+}

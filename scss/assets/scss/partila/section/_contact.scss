@@ -1,0 +1,28 @@
+#contact{
+    .container{
+        .title{
+            margin: 80px 0px;
+        }
+        .row{
+            .item{
+                background-color: black;
+                .form-control{
+                    background-color: black;
+                    
+                }
+                button{
+                    border: 1px solid white;
+                }
+            }
+            .icons{
+                div{
+                    i{
+                        font-size: 30px;
+                        margin: 20px 10px;
+                        
+                    }
+                }
+            }
+        }
+    }
+}

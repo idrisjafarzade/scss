@@ -1,0 +1,23 @@
+#footer{
+    margin-top: 50px;
+    background-color: black; 
+   .container{
+    justify-content: space-around;
+    align-items: center;
+    padding: 100px 0;
+    color: white;
+    .content{
+        text-align: center;
+        span{
+            font-size: 15px;
+        }
+    }
+    .content__icons{
+        i{
+           margin-right: 20px;
+           font-size: 20px;
+           color: white;
+        }
+    }
+   }
+}  

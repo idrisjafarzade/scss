@@ -1,0 +1,20 @@
+#About{
+    .container{
+        .row{
+           .about-col1{
+               img{
+                   width: 100%;
+                   object-fit: cover;
+               }
+           }
+           .about-col2{
+              margin-top: 50px; 
+              h2{
+                  text-align: center;
+                  margin-bottom: 100px;
+              }
+
+           }
+        }
+    }
+}
